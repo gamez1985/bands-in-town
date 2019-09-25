@@ -7,7 +7,7 @@ A [simple React application](https://peaceful-anchorage-31825.herokuapp.com/) th
 ## Why?
 I created this project, so where I can show a sample React application of mine.
 
-## Screenshot
+## Screenshots
 ![Screenshot](https://freeadscenter.com/bands-in-town/Screenshot_1.jpg)
 ![Screenshot](https://freeadscenter.com/bands-in-town/Screenshot_2.jpg)
 
@@ -42,7 +42,7 @@ I couldn't write the Unit tests for JS code because of time constraints. I had s
 - I have used Broswer localstorage to Persist the last entered artist and events across browser reloads/refreshes.
 - I have used necessary links (Facebook, Event Page) to open in new tab
 - I have used validation on search artist form
-- I am error message if no result found from an API
+- I am showing error message if no result is found from an API
 - I have added 404 Page
 
 ## Available Scripts
