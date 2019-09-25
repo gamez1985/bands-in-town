@@ -1,4 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bands In Town
+A [simple React application](https://peaceful-anchorage-31825.herokuapp.com/) that connects to the [BandsInTown API] (https://app.swaggerhub.com/apis-docs/Bandsintown/PublicAPI/3.0.0).<br>
+- Where users can
+  - Search an *artist* from their API
+  - See Upcoming evests of that particular artist using their API
+ 
+## Why?
+I created this project, so where I can show a sample React application of mine.
+
+## Screenshot
+![Screenshot](https://freeadscenter.com/bands-in-town/Screenshot_1.jpg)
+![Screenshot](https://freeadscenter.com/bands-in-town/Screenshot_2.jpg)
+
+## Libraries/Frameworks Used
+- React
+- Context API
+- Moment
+- Axios
+- React Router Dom
+- Bootstrap 4
+- Font Awesome
+
+## Tools
+- [react-scripts](https://github.com/facebook/create-react-app/blob/master/README.md#getting-started)
+  - Encapsulates (with ability to eject and take full control):
+    - Webpack, Babel, ESlint, ...
+  - We can smoothly build/deploy our React applications with [zero configurations](https://github.com/facebook/create-react-app#philosophy)
+  - We're not locked in, and we can [eject](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject) at any point of time to have full control over webpack/babel plugins/eslint/... and all other tools.
+
+## UI
+- I've used [Bootstrap](https://getbootstrap.com/) which's an awesome implementation of the Design for React
+- Layouts/Components are based on [Bootstrap Grid System](https://getbootstrap.com/docs/4.1/layout/grid/), the application is completely **responsive**.
+
+## Testing
+I couldn't write the Unit tests for JS code because of time constraints. I had some medical issue in the beginning, but if sometime wil be allowed, i can write Unit tests.
+
+## Deployment
+- I deploy the application on [Heroku](https://www.heroku.com/)
+- https://peaceful-anchorage-31825.herokuapp.com/
+
+## Extra features
+- I have used Broswer localstorage to Persist the last entered artist and events across browser reloads/refreshes.
+- I have used necessary links (Facebook, Event Page) to open in new tab
+- I have used validation on search artist form
+- I am error message if no result found from an API
+- I have added 404 Page
 
 ## Available Scripts
 
