@@ -12,6 +12,7 @@ import './App.css';
 
 const Page404 = ({ location }) => (
   <div>
+  <h1>404</h1>
     <h2>No match found for <code>{location.pathname}</code><br/><br/>
     <Link to={`/`} className="btn btn-dark btn-sm mb-4">
              Go Back
