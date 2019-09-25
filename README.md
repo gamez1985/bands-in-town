@@ -35,7 +35,7 @@ I created this project, so where I can show a sample React application of mine.
 I couldn't write the Unit tests for JS code because of time constraints. I had some medical issue in the beginning, but if sometime wil be allowed, i can write Unit tests.
 
 ## Deployment
-- I deploy the application on [Heroku](https://www.heroku.com/)
+- I deployed the application on [Heroku](https://www.heroku.com/)
 - https://peaceful-anchorage-31825.herokuapp.com/
 
 ## Extra features
