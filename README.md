@@ -31,9 +31,6 @@ I created this project, so where I can show a sample React application of mine.
 - I've used [Bootstrap](https://getbootstrap.com/) which's an awesome implementation of the Design for React
 - Layouts/Components are based on [Bootstrap Grid System](https://getbootstrap.com/docs/4.1/layout/grid/), the application is completely **responsive**.
 
-## Testing
-I couldn't write the Unit tests for JS code because of time constraints. I had some medical issue in the beginning, but if sometime wil be allowed, i can write Unit tests.
-
 ## Deployment
 - I deployed the application on [Heroku](https://www.heroku.com/)
 - https://peaceful-anchorage-31825.herokuapp.com/
